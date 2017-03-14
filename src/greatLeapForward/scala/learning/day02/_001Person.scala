@@ -65,8 +65,16 @@ object People {
   }
 }
 
-class Dog {
+/**
+  * Apply
+  */
+class Dog() {
 
+  var name: String = _
+  def this(name: String) {//辅助构造器，第一行必须调主构造器
+    this()
+    this.name = name
+  }
 }
 
 object Dog {

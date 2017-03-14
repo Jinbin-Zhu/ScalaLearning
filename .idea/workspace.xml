@@ -2,70 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4edc77-249f-4b53-9499-75ba06f45882" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$main$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$main$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$main$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$$anonfun$main$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_001HelloScala.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional$$anonfun$assemble$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional$$anonfun$maxFun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002Functional.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$$anonfun$main$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_002FunctionalPlus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$$anonfun$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$$anonfun$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$$anonfun$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$$anonfun$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_003Array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_004Collection$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_004Collection$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_004Collection$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_004Collection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_005Test$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/_005Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$15$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$$anonfun$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/leaning/day01/wordCount.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_002Chinese.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_003CaseDemo.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_004CaseClass.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_005Option.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_006PartialFun.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog$.class" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog.class" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002FunctionalPlus.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002FunctionalPlus.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,11 +28,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="_001Person.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala">
+      <file leaf-file-name="_007Test.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -118,12 +65,18 @@
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala" />
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Person.scala" />
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_002Chinese.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_003CaseDemo.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_004CaseClass.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_005Option.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_006PartialFun.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="114" />
-    <option name="y" value="93" />
+    <option name="x" value="115" />
+    <option name="y" value="94" />
     <option name="width" value="1976" />
     <option name="height" value="1143" />
   </component>
@@ -179,6 +132,32 @@
               <option name="myItemId" value="day02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_007Test.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -204,62 +183,22 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Dog">
-    <configuration default="false" name="_002FunctionalPlus" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="greatLeapForward.scala.leaning.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.leaning.day01._002FunctionalPlus" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="wordCount" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="greatLeapForward.scala.leaning.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.leaning.day01.wordCount" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application._006PartialFun">
+    <configuration default="false" name="_003CaseDemo4" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02.Person" />
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._003CaseDemo4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -272,14 +211,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="People" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_003CaseDemo5" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02.People" />
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._003CaseDemo5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -292,14 +231,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_004CaseClass" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02.Dog" />
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._004CaseClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_005Option" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._005Option" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_006PartialFun" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._006PartialFun" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -568,19 +547,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._002FunctionalPlus" />
-      <item index="1" class="java.lang.String" itemvalue="Application.wordCount" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Person" />
-      <item index="3" class="java.lang.String" itemvalue="Application.People" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Dog" />
+      <item index="0" class="java.lang.String" itemvalue="Application._003CaseDemo4" />
+      <item index="1" class="java.lang.String" itemvalue="Application._003CaseDemo5" />
+      <item index="2" class="java.lang.String" itemvalue="Application._004CaseClass" />
+      <item index="3" class="java.lang.String" itemvalue="Application._005Option" />
+      <item index="4" class="java.lang.String" itemvalue="Application._006PartialFun" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Dog" />
-        <item index="1" class="java.lang.String" itemvalue="Application.People" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Person" />
-        <item index="3" class="java.lang.String" itemvalue="Application.wordCount" />
-        <item index="4" class="java.lang.String" itemvalue="Application._002FunctionalPlus" />
+        <item index="0" class="java.lang.String" itemvalue="Application._006PartialFun" />
+        <item index="1" class="java.lang.String" itemvalue="Application._005Option" />
+        <item index="2" class="java.lang.String" itemvalue="Application._004CaseClass" />
+        <item index="3" class="java.lang.String" itemvalue="Application._003CaseDemo5" />
+        <item index="4" class="java.lang.String" itemvalue="Application._003CaseDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -603,7 +582,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="93" width="1976" height="1143" extended-state="0" />
+    <frame x="115" y="94" width="1976" height="1143" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -648,15 +627,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -668,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
           <caret line="27" column="94" lean-forward="false" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,10 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6984">
           <caret line="194" column="6" lean-forward="false" selection-start-line="194" selection-start-column="6" selection-end-line="194" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#552#611#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,10 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="200" column="39" lean-forward="false" selection-start-line="200" selection-start-column="25" selection-end-line="200" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#552#611#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,15 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,14 +746,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_002Chinese.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_003CaseDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="96" column="13" lean-forward="true" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_004CaseClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_005Option.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_006PartialFun.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="324">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding />
         </state>
       </provider>
