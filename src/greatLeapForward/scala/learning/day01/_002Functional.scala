@@ -1,4 +1,4 @@
-package greatLeapForward.scala.leaning.day01
+package greatLeapForward.scala.learning.day01
 
 /**
   * Created by Jinbin Zhu on 3/13/17.

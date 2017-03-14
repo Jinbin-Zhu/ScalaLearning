@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a4edc77-249f-4b53-9499-75ba06f45882" name="Default" comment="" />
+    <list default="true" id="0a4edc77-249f-4b53-9499-75ba06f45882" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_001HelloScala.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_001HelloScala.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002Functional.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002Functional.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002FunctionalPlus.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002FunctionalPlus.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_003Array.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_003Array.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_004Collection.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_004Collection.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_005Test.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,28 +24,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="_005Test.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_005Test.scala">
+      <file leaf-file-name="_005Test.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_004Collection.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_004Collection.scala">
+        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_004Collection.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="377">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_002FunctionalPlus.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002FunctionalPlus.scala">
+        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002FunctionalPlus.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="625">
               <caret line="27" column="94" lean-forward="false" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
@@ -81,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_004Collection.scala" />
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002FunctionalPlus.scala" />
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_005Test.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala" />
       </list>
     </option>
   </component>
@@ -137,7 +156,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -585,7 +626,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002Functional.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002Functional.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -593,7 +634,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_001HelloScala.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_001HelloScala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -620,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_001HelloScala.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_001HelloScala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
@@ -628,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_003Array.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_003Array.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
@@ -636,7 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002Functional.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002Functional.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
           <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
@@ -655,15 +696,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_004Collection.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_004Collection.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_002FunctionalPlus.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_002FunctionalPlus.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
           <caret line="27" column="94" lean-forward="false" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
@@ -679,10 +720,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/leaning/day01/_005Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day01/_005Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
