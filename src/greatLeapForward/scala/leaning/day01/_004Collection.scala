@@ -1,7 +1,7 @@
 package greatLeapForward.scala.leaning.day01
 
 /**
-  * Created by johann on 3/13/17.
+  * Created by Jinbin Zhu on 3/13/17.
   */
 class _004Collection {
 

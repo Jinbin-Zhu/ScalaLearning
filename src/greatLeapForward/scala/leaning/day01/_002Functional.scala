@@ -1,9 +1,7 @@
 package greatLeapForward.scala.leaning.day01
 
 /**
-  * Created by johann on 3/13/17.
-  * scala方法和函数的使用
-  * 注：函数可以作为值（参数）传递给方法，二方法不可以
+  * Created by Jinbin Zhu on 3/13/17.
   */
 class _002Functional {
 
@@ -49,7 +47,7 @@ object _002Functional {
     println(fun.max(3, 6))
     println(fun.min(5, 9))
 
-    //函数作为参数，传递给方法
+    //函数作为参数，传递给方法.
     val arr = Array(1, 2, 3, 4, 5, 6, 7)
     println(arr.reduce(fun.max))
 

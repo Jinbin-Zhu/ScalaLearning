@@ -3,7 +3,7 @@ package greatLeapForward.scala.leaning.day01
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * Created by johann on 3/13/17.
+  * Created by Jinbin Zhu on 3/13/17.
   */
 class _003Array {
 
