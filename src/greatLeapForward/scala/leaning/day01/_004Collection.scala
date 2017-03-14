@@ -1,5 +1,7 @@
 package greatLeapForward.scala.leaning.day01
 
+import scala.collection.mutable
+
 /**
   * Created by Jinbin Zhu on 3/13/17.
   */
@@ -37,5 +39,37 @@ object _004Collection extends App{
   val a = Array("name", "age", "class") //如果数组长度不一致，则多出来的部分去掉
   val b = Array("zhousan", 17, 3)
   a.zip(b)
+
+  /**
+    * List
+    */
+  val list1 = List(1, 2, 3, 4, 5)
+  //list(0) = 4 //不可改变
+
+  val list2 = List(6, 7, 8, 9, 10)
+
+  //list的合并
+  val list3 = 0 :: list1
+  val list4 = 0 +: list1
+  val list5 = list1 :: list2
+
+  val listB = ListBuffer(1, 2, 3, 4, 5)
+  listB(2) = 100
+  listB += 8
+  listB.append(90, 83, 32)
+
+  val listB2 = ListBuffer(32, 54)
+  listB ++= listB2
+
+
+  /**
+    * Set, 元素不可重复
+    */
+  val hSet = new mutable.HashSet[Int]()
+  hSet += 1
+  hSet ++= Set(2, 3, 4, 5)
+  hSet -= 4
+  hSet.remove(5)
+  hSet.map(println)
 
 }
