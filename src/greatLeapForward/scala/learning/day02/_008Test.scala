@@ -55,13 +55,12 @@ object _008Test {
       }
     }
 
-    val words =
-      resultList.
-      flatMap(_.result).
-      groupBy(_._1).
-      mapValues(_.foldLeft(0)(_+_._2)).
-      toList.sortBy(_._2).
-      reverse
+    val words = resultList.
+                flatMap(_.result).
+                groupBy(_._1).
+                mapValues(_.foldLeft(0)(_+_._2)).
+                toList.sortBy(_._2).
+                reverse
     print(words)
   }
 }
