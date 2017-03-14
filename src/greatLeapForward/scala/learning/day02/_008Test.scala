@@ -9,9 +9,9 @@ import scala.io.Source
   * Created by Jinbin Zhu on 3/13/17.
   * 基于actor多并发的单机版wordcount
   */
-case class Begin(file: String)
-case class Result(result: Map[String, Int])
-case object Stop
+case class Begin(file: String)  //提交任务
+case class Result(result: Map[String, Int]) //返回结果
+case object Stop  //任务结束
 
 class _008Test extends Actor{
   override def act(): Unit = {
