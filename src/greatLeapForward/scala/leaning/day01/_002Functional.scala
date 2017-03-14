@@ -30,6 +30,15 @@ class _002Functional {
   def minus(f: (Int, Int) => Int, num: Int): Int = {
     f(1, 2) - num
   }
+
+  //多返回值函数的定义
+  def assemble: (Int, Double) => (Double, Int) = {
+    (x, y) =>
+      (y, x)
+  }
+
+  //_将方法转换成函数
+  def maxFun = max _
 }
 
 object _002Functional {
@@ -47,5 +56,10 @@ object _002Functional {
     println(fun.sum(3, 5))
 
     println(fun.minus(fun.sum, 3))
+
+    println(fun.assemble(4, 5.6).toString())
+
+    //这个地方无论是方法或是函数，都可以传进方法中。为啥！！！
+    println(fun.max(fun.maxFun(3, 5), fun.maxFun(1, 9)))
   }
 }
