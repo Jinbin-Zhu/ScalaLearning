@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4edc77-249f-4b53-9499-75ba06f45882" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_002Chinese.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_003CaseDemo.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_004CaseClass.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_005Option.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_006PartialFun.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/Test.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog$.class" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog.class" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007MyActor.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ScalaLearning/greatLeapForward/scala/learning/day02/Test.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_008Test.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala" afterPath="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_001Person.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,12 +21,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="_007Test.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala">
+      <file leaf-file-name="_008Test.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_008Test.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="1317">
+              <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+              <folding>
+                <element signature="e#47#82#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +66,8 @@
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_005Option.scala" />
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_006PartialFun.scala" />
         <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007MyActor.scala" />
+        <option value="$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_008Test.scala" />
       </list>
     </option>
   </component>
@@ -133,7 +130,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_007Test.scala" />
+              <option name="myItemId" value="_008Test.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,87 +187,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application._006PartialFun">
-    <configuration default="false" name="_003CaseDemo4" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._003CaseDemo4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_003CaseDemo5" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._003CaseDemo5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_004CaseClass" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._004CaseClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="_005Option" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._005Option" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application._008Test">
     <configuration default="false" name="_006PartialFun" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -279,6 +196,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._006PartialFun" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ActorTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02.ActorTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ActorTest2" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02.ActorTest2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ActorTest3" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02.ActorTest3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_008Test" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="greatLeapForward.scala.learning.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="greatLeapForward.scala.learning.day02._008Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -547,19 +544,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._003CaseDemo4" />
-      <item index="1" class="java.lang.String" itemvalue="Application._003CaseDemo5" />
-      <item index="2" class="java.lang.String" itemvalue="Application._004CaseClass" />
-      <item index="3" class="java.lang.String" itemvalue="Application._005Option" />
-      <item index="4" class="java.lang.String" itemvalue="Application._006PartialFun" />
+      <item index="0" class="java.lang.String" itemvalue="Application._006PartialFun" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ActorTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ActorTest2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ActorTest3" />
+      <item index="4" class="java.lang.String" itemvalue="Application._008Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application._006PartialFun" />
-        <item index="1" class="java.lang.String" itemvalue="Application._005Option" />
-        <item index="2" class="java.lang.String" itemvalue="Application._004CaseClass" />
-        <item index="3" class="java.lang.String" itemvalue="Application._003CaseDemo5" />
-        <item index="4" class="java.lang.String" itemvalue="Application._003CaseDemo4" />
+        <item index="0" class="java.lang.String" itemvalue="Application._008Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ActorTest3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ActorTest2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ActorTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application._006PartialFun" />
       </list>
     </recent_temporary>
   </component>
@@ -642,11 +639,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_008Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#47#82#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -797,11 +796,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_007MyActor.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="1165">
+          <caret line="69" column="7" lean-forward="true" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greatLeapForward/scala/learning/day02/_008Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1317">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <element signature="e#47#82#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
