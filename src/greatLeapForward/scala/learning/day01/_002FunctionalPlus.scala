@@ -26,5 +26,15 @@ object _002FunctionalPlus extends App{
 
     println(arr.fold(10)(_+_))  //（10）为初始值
     println(arr.par.fold(10)(_+_))//答案为55，因为系统有4个核，所以arr会被并行化为4个并行任务，而每个并行任务的初始值都是10，所以10被加了4次
+
+    val nums = List(List(1, 2, 3), List(4, 5, 6), List(7, 8, 9))
+    println(nums.aggregate(0)(_+_.sum, _+_))    //
+    println(nums.par.aggregate(10)(_+_.sum, _+_)) //res5: Int = 75, 因为有三个子list， 并行度为3，所以每个子任务都加了10
+
+    val list4 = List(1, 2, 3, 4)
+    val list5 = List(5, 6, 7, 8)
+    println(list4.union(list5))
+    println(list4.diff(list5))
+
   }
 }
